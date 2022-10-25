@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADFGitDemoo"
+		},
+		"AzureBlobStorage_connectionString": {
+			"value": ""
 		}
 	}
 }
