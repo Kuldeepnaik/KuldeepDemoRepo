@@ -1,0 +1,9 @@
+{
+	"name": "ADFGitDemoo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a2c08f69-e947-4e3f-b26e-c35da5b2a6ed",
+		"tenantId": "fd7a52f2-2ec3-4251-9042-b1bbeaa81f11"
+	}
+}
